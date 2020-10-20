@@ -1,0 +1,63 @@
+body{
+  margin:0;
+  text-align: center;
+  font-family: "Century Gothic",CenturyGothic,AppleGothic,sans-serif
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5rem;
+
+}
+
+p{
+  font-family: 'Raleway', sans-serif;
+  font-size: 2rem;
+
+}
+.killjoy{
+  width: 20%;
+  height: auto;
+}
+.ppro{
+  width: 20%;
+  height: auto;
+
+}
+
+.css3{
+  width: 20%;
+  height: auto;
+}
+
+.top{
+  background-color: #3f72af;
+  position: relative;
+  padding-top: 90px;
+}
+
+.middle{
+  background-color: #ee6f57;
+
+}
+
+.bottom{
+  background-color: #686d76;
+
+}
+.edit{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+
+}
